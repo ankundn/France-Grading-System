@@ -1,7 +1,7 @@
 # France-Grading-System
 
-[![Irenyak1](https://circleci.com/gh/Irenyak1/grading-system-france.svg?style=svg)](https://app.circleci.com/github/Irenyak1/grading-system-france/pipelines?branch=master)
-[![Coverage Status](https://coveralls.io/repos/github/Irenyak1/grading-system-france/badge.svg?branch=master)](https://coveralls.io/github/Irenyak1/grading-system-france?branch=master)
-[![Maintainability](https://api.codeclimate.com/v1/badges/ffce74bee817aa4c575f/maintainability)](https://codeclimate.com/github/Irenyak1/grading-system-france/maintainability)
+[![ankundn](https://circleci.com/gh/ankundn/Grading-System.svg?style=svg)](https://circleci.com/gh/ankundn/Grading-System)
+
+[![Coverage Status](https://coveralls.io/repos/github/ankundn/Grading-System/badge.svg?branch=master)](https://coveralls.io/github/ankundn/Grading-System?branch=master)
 
 A grading system for Univesity students in France.
