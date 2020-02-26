@@ -1,0 +1,33 @@
+{
+  "name": "grade",
+  "version": "1.0.0",
+  "description": "Grading system for University students",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "coveralls": "^3.0.9",
+    "jest": "^25.1.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "coveralls": "jest --coverage && cat ./coverage/lcov.info | coveralls",
+    "jest-coverage": "npm run test -- --coverage"
+  },
+  "jest": {
+    "collectCoverage": true
+  },
+  "author": "Ankunda Nisha",
+  "license": "ISC",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankundn/Grading-System.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ankundn/Grading-System/issues"
+  },
+  "homepage": "https://github.com/ankundn/Grading-System#readme"
+}
